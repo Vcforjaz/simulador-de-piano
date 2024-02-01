@@ -12,6 +12,6 @@ Este repositório é referente ao término do projeto de desenvolvimento de um s
 
 ►Posteriormente será adicionado novos instrumentos e funcionalidades, serão publicados como novas branches.
 
-<a href="https://vcforjaz.github.io/Meus-Projetos/píano.html">Clique aqui para visualizar o projeto no navegador</a>
+<a href="https://vcforjaz.github.io/Meus-Projetos/piano.html">Clique aqui para visualizar o projeto no navegador</a>
 
 ![image](https://github.com/Vcforjaz/Meus-Projetos/blob/main/piano.PNG?raw=true)
